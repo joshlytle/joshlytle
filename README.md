@@ -2,9 +2,9 @@
 
 Principal iOS engineer. I build computer vision that runs on the device.
 
-Most recently at NomadGo, co-designing a mixture-of-experts engine that identified
-products from a single training photo each, and extending the same single-photo
-approach to the detection stage that gated it. Named inventor on the patent.
+Most recently at NomadGo, I co-designed a mixture-of-experts engine that identified
+products from a single training photo each, then extended the same single-photo
+approach to the detection stage that gated it. I'm a named inventor on the patent.
 
 Twenty-five years on Apple platforms underneath that: Swift, SwiftUI, Core ML,
 ARKit. Three decades of real-time graphics and game engines underneath the
