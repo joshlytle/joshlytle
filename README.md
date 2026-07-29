@@ -1,6 +1,6 @@
 ## Josh Lytle
 
-Principal iOS engineer. I build computer vision that runs on the device.
+Principal engineer. I build computer vision that runs on the device.
 
 Most recently at NomadGo, I co-designed a mixture-of-experts engine that identified
 products from a single training photo each, then extended the same single-photo
